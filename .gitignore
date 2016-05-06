@@ -1,0 +1,10 @@
+# Unreal engine folders
+/Binaries/*/*.pdb
+/Binaries/*/*Debug*
+/Intermediate
+/Saved
+/FirstPerson
+/Content/StarterContent
+
+
+Thumbs.db
